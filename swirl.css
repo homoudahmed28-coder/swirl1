@@ -33,14 +33,13 @@ button:hover{
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 
 }
-.an{
-    margin-right: 20px
-}
 .s{
-    margin-left: 20px}
-    .rick{
-    margin-top: 30px;
-    }
+    margin-top: 20px;
+    
+}
+.rick{
+margin-top: 30;
+}
 i{
     font-family:"classic",Arial, sans-serif;
     font-size: 25px;
@@ -48,6 +47,16 @@ i{
 .i:hover{
     font-family:"classic",Arial, sans-serif;
     text-transform: lowercase;
+}
+footer{
+    margin-bottom: 10px;
+    color: #ffffff;
+    background: #1d1d1d;
+    text-align:center;
+    padding: 15px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 @font-face {
     font-family: "classic";
