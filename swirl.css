@@ -37,13 +37,18 @@ button:hover{
     margin-top: 20px;
     
 }
+ul {
+  list-style-type: none;
+}
 .rick{
-margin-top: 30;
+    margin-top: 0;
 }
 i{
     font-family:"classic",Arial, sans-serif;
     font-size: 25px;
+    margin-top: 10;
 }
+
 .i:hover{
     font-family:"classic",Arial, sans-serif;
     text-transform: lowercase;
@@ -70,3 +75,4 @@ footer{
             font-size: 1.5em;
         }
     }
+
